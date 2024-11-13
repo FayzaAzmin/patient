@@ -1,3 +1,6 @@
 read patientid
 read patient name
 read doctor id
+
+read insurance details
+read bills
